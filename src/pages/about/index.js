@@ -30,7 +30,12 @@ export const About = () => {
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>
-              <p>{dataabout.aboutme}</p>
+              {dataabout.aboutme.map((paragraph, index) => (
+                <React.Fragment key={index}>
+                  <p>{paragraph}</p>
+                  {index !== dataabout.aboutme.length - 1 && <br />}
+                </React.Fragment>
+              ))}
             </div>
           </Col>
         </Row>
@@ -78,9 +83,7 @@ export const About = () => {
             })}
           </Col>
         </Row>
-        <Row className="sec_sp">
-          
-        </Row>
+        <Row className="sec_sp"></Row>
       </Container>
     </HelmetProvider>
   );

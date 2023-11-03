@@ -13,14 +13,18 @@ const introdata = {
     third: "I mentor next generation",
   },
   description:
-    "Sometimes maybe good, sometimes maybe shit",
+    "My job responsibilities include close communication with clients to understand their needs and desires, and then developing suitable software solutions. I am responsible for planning, managing, and executing projects, ensuring that they are accurate, stable, and secure.",
   your_img_url: "/images/eebissupid_6.jpg",
 };
 
 const dataabout = {
   title: "abit about my self",
-  aboutme:
-    "My job responsibilities include close communication with clients to understand their needs and desires, and then developing suitable software solutions. I am responsible for planning, managing, and executing projects, ensuring that they are accurate, stable, and secure.",
+  aboutme: [
+    "As a frontend developer, I thrive on the satisfaction that comes from creating innovative, high-performing and user-centric software applications that not only solve business challenges but also enhance the end-users' experience.",
+    "\n\nMy insatiable appetite for knowledge and the desire to continuously improve my skills, combined with a passion for delivering high-quality software, fuel my motivation to excel in my role as a software professional.",
+    "\n\nAs a seasoned software developer and educator, I take pride in my ability to provide creative solutions to problems. My exceptional attention to detail allows me to identify even the most obscure issues and address them proactively.",
+    "\n\nIn my work with clients, I strive to deliver dependable and secure software solutions that cater to their unique needs and enable them to achieve their objectives. My goal is to establish long-term relationships with clients by providing unparalleled service and continuously enhancing their software products.",
+  ],
 };
 const worktimeline = [
   {
@@ -34,7 +38,7 @@ const worktimeline = [
     date: "2021",
   },
   {
-    jobtitle: "Project Maranger",
+    jobtitle: "Project Manager / Team Lead",
     where: "Flowershower OÜ",
     date: "2023",
   },
