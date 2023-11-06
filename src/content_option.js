@@ -14,7 +14,7 @@ const introdata = {
   },
   description:
     "My job responsibilities include close communication with clients to understand their needs and desires, and then developing suitable software solutions. I am responsible for planning, managing, and executing projects, ensuring that they are accurate, stable, and secure.",
-  your_img_url: "/images/eebissupid_6.jpg",
+  your_img_url: "/images/eebissupid_6.webp",
 };
 
 const dataabout = {

@@ -152,7 +152,11 @@ export const ContactUs = () => {
               <br />
               <Row>
                 <Col lg="12" className="form-group">
-                  <button className="btn ac_btn" type="submit">
+                  <button
+                    className="btn ac_btn"
+                    type="submit"
+                    aria-label="Submit"
+                  >
                     {formData.loading ? "Sending..." : "Send"}
                   </button>
                 </Col>
