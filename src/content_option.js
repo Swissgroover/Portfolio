@@ -70,7 +70,7 @@ const skills = [
     value: 90,
   },
   {
-    name: "Time managment",
+    name: "Time management",
     value: 75,
   },
   {
@@ -158,15 +158,11 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "karl-gregor@veebisepad.ee",
+  YOUR_EMAIL: "kgrauniste@gmail.com",
   YOUR_FONE: "(+372)5270-692",
-//   description:
-//     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_qd88c63",
+  YOUR_TEMPLATE_ID: "template_2nr6xdn",
+  YOUR_USER_ID: "mNbgI-rg8cp2SIsRe",
 };
 
 const socialprofils = {
