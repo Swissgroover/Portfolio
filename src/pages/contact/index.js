@@ -93,13 +93,19 @@ export const ContactUs = () => {
             </Alert>
           </Col>
           <Col lg="5" className="mb-5">
-            <h3 className="color_sec py-4">Get in touch</h3>
+            <h3 className="color_sec py-4">
+              Let’s Build Something Amazing Together
+            </h3>
             <address>
-              <strong>Email:</strong>{" "}
-              <a href={`mailto:${contactConfig.YOUR_EMAIL}`}>
-                {contactConfig.YOUR_EMAIL}
-              </a>
-              <br />
+              <p>
+                Whether you need innovative software solutions, data-driven
+                insights, or just someone to brainstorm your next big idea, I’m
+                here to help. With expertise in software development and
+                analytics, I thrive on turning challenges into elegant,
+                efficient solutions. <br />
+                📬 Drop me a message, and let’s start creating!
+              </p>
+
               <br />
               {contactConfig.hasOwnProperty("YOUR_FONE") ? (
                 <p>

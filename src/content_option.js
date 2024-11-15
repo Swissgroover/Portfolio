@@ -13,34 +13,33 @@ const introdata = {
     third: "I mentor next generation",
   },
   description:
-    "My job responsibilities include close communication with clients to understand their needs and desires, and then developing suitable software solutions. I am responsible for planning, managing, and executing projects, ensuring that they are accurate, stable, and secure.",
+    "My role involves close collaboration with clients to fully understand their needs and objectives, translating these into tailored software solutions. I’m responsible for planning, managing, and executing projects to ensure they are precise, reliable, and secure. Additionally, I conduct software analytics to drive data-informed decisions, optimizing each project for performance and usability from start to finish.",
   your_img_url: "/images/eebissupid_6.webp",
 };
 
 const dataabout = {
   title: "abit about my self",
   aboutme: [
-    "As a frontend developer, I thrive on the satisfaction that comes from creating innovative, high-performing and user-centric software applications that not only solve business challenges but also enhance the end-users' experience.",
-    "\n\nMy insatiable appetite for knowledge and the desire to continuously improve my skills, combined with a passion for delivering high-quality software, fuel my motivation to excel in my role as a software professional.",
-    "\n\nAs a seasoned software developer and educator, I take pride in my ability to provide creative solutions to problems. My exceptional attention to detail allows me to identify even the most obscure issues and address them proactively.",
-    "\n\nIn my work with clients, I strive to deliver dependable and secure software solutions that cater to their unique needs and enable them to achieve their objectives. My goal is to establish long-term relationships with clients by providing unparalleled service and continuously enhancing their software products.",
+    "As a frontend developer, I’m driven by the challenge of creating innovative, high-performance applications that solve real business needs and elevate user experience. My passion for continuous learning and commitment to excellence push me to deliver top-quality software solutions that make an impact.",
+    "\n\nWith extensive experience as both a software developer and educator, I pride myself on crafting creative solutions and proactively addressing even the most subtle issues with a keen eye for detail. In collaboration with clients, I aim to deliver reliable, secure software tailored to their goals, fostering long-term partnerships built on trust and outstanding service",
+    
   ],
 };
 const worktimeline = [
   {
-    jobtitle: "Front-end Developer",
+    jobtitle: "Software Developer",
     where: "Veebisepad OÜ",
-    date: "2020",
+    date: "2020 - ",
   },
   {
     jobtitle: "IT-Teacher",
     where: "Kuressaare Ametikool",
-    date: "2021",
+    date: "2021 - ",
   },
   {
-    jobtitle: "Project Manager / Team Lead",
+    jobtitle: "Project Manager / Software Analytic",
     where: "Flowershower OÜ",
-    date: "2023",
+    date: "2022 - ",
   },
 ];
 
@@ -85,81 +84,84 @@ const skills = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "/images/Sepps.png",
     description: "Eraspordikool Sepps",
     link: "https://sepps.eu/",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "/images/TM.png",
     description: "Tourmotor",
     link: "https://tourmotor.net/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "/images/FS.png",
     description: "Flowershower",
     link: "https://flowershower.ee/",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "/images/Waag.png",
     description: "Waag",
     link: "https://waag.ee/",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "/images/KTG.png",
     description: "KTG",
     link: "https://www.ktg.edu.ee/",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "/images/KE.png",
     description: "Kalma Ehitus",
     link: "https://kalmaehitus.ee/",
   },
 
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "/images/Babycool.png",
     description: "Babycool food",
     link: "https://babycoolfood.com/",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "/images/Namesong.png",
     description: "Namesong",
     link: "https://namesong.com/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "/images/Navicup.png",
     description: "Navicup",
     link: "https://navicup.com/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "/images/BMI-Eesti.png",
     description: "BMI Monier Roof calculator(EST)",
     link: "https://calcee.bmieesti.ee/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "/images/BMI-Latvia.png",
     description: "BMI Monier Roof calculator(LV)",
     link: "https://calclv.bmieesti.ee/",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "/images/Lapitekk.png",
     description: "Lapitekk",
     link: "https://www.lapitekk.ee/",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "/images/Alar.png",
     description: "Alar Truu Fotograph",
     link: "https://alartruu.com/",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "/images/Valmarifoto.png",
     description: "Valmar Voolaid Fotograph",
     link: "https://valmarifoto.com/",
+  },
+  {
+    img: "/images/Projecting.png",
+    description: "Projecting Koolituskeskus",
+    link: "https://projecting.ee/",
   },
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "kgrauniste@gmail.com",
-  YOUR_FONE: "(+372)5270-692",
   YOUR_SERVICE_ID: "service_qd88c63",
   YOUR_TEMPLATE_ID: "template_2nr6xdn",
   YOUR_USER_ID: "mNbgI-rg8cp2SIsRe",

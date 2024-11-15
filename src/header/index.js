@@ -80,7 +80,7 @@ const Headermain = () => {
                 LinkedIn
               </a>
             </div>
-            <p className="copyright m-0">copyright __ {logotext}</p>
+            <p className="copyright m-0">{logotext}</p>
           </div>
         </div>
       </header>

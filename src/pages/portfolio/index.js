@@ -20,6 +20,9 @@ export const Portfolio = () => {
               The pages and client projects within the portfolio are crafted
               with the Vue.js, Laravel, and Statamic frameworks, while the page
               designs were the creative work of another individual.
+              Additionally, I have worked on various projects for companies'
+              internal tools, which I am unable to showcase here due to
+              confidentiality.
             </p>
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
